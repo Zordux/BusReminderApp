@@ -1,0 +1,20 @@
+D:\Stuff\projects\Bus App\Bus App\Bus App\bin\Debug\netstandard2.0\Bus App.deps.json
+D:\Stuff\projects\Bus App\Bus App\Bus App\bin\Debug\netstandard2.0\Bus App.dll
+D:\Stuff\projects\Bus App\Bus App\Bus App\bin\Debug\netstandard2.0\Bus App.pdb
+D:\Stuff\projects\Bus App\Bus App\Bus App\obj\Debug\netstandard2.0\Bus App.csproj.AssemblyReference.cache
+D:\Stuff\projects\Bus App\Bus App\Bus App\obj\Debug\netstandard2.0\Bus App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\projects\Bus App\Bus App\Bus App\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Stuff\projects\Bus App\Bus App\Bus App\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\Stuff\projects\Bus App\Bus App\Bus App\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\Stuff\projects\Bus App\Bus App\Bus App\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+D:\Stuff\projects\Bus App\Bus App\Bus App\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+D:\Stuff\projects\Bus App\Bus App\Bus App\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\Stuff\projects\Bus App\Bus App\Bus App\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+D:\Stuff\projects\Bus App\Bus App\Bus App\obj\Debug\netstandard2.0\Bus App.AssemblyInfoInputs.cache
+D:\Stuff\projects\Bus App\Bus App\Bus App\obj\Debug\netstandard2.0\Bus App.AssemblyInfo.cs
+D:\Stuff\projects\Bus App\Bus App\Bus App\obj\Debug\netstandard2.0\Bus App.csproj.CoreCompileInputs.cache
+D:\Stuff\projects\Bus App\Bus App\Bus App\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Stuff\projects\Bus App\Bus App\Bus App\obj\Debug\netstandard2.0\Bus App.dll
+D:\Stuff\projects\Bus App\Bus App\Bus App\obj\Debug\netstandard2.0\refint\Bus App.dll
+D:\Stuff\projects\Bus App\Bus App\Bus App\obj\Debug\netstandard2.0\Bus App.pdb
+D:\Stuff\projects\Bus App\Bus App\Bus App\obj\Debug\netstandard2.0\ref\Bus App.dll
